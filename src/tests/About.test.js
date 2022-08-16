@@ -1,1 +1,1 @@
-test('', () => {});
+test('Inicia o projeto', () => {});
